@@ -10,7 +10,7 @@ const proyectos = ref([
     title: "Cosmic CatStudio",
     description: "Modular client-server platform designed to connect emerging musical artists with their audience. Features seamless media streaming, community interaction management, and an e-commerce ecosystem with PayPal API integration.",
     stack: ["PHP", "JavaScript", "MySQL", "PayPal API", "XAMPP", "PHPMailer"],
-    github: "https://github.com/AbnerAlg/Cosmic-CatStudio",
+    github: "https://github.com/AbnerAlg/CosmicCatStudio",
     category: "Architecture & Backend",
     image: "cosmic-cat-preview.png"
   },
